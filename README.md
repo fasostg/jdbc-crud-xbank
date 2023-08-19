@@ -1,5 +1,5 @@
 # jdbc-crud-xbank
-A CRUD system using JDBC+MySQL
+Um sistema CRUD utilizando JDBC nativo do Java em conjunto com o MySQL, de forma a simular operações bancárias.
 
 # Bem-vindo(a) ao XBank
 * 1- Listar todas as contas
